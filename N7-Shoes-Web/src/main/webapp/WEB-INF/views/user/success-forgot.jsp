@@ -7,7 +7,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Thông báo</title>
+<link rel="icon" href="/user/img/logo4.png" type="image/png">
+<title>N7-Shoes Xin Chào Quý Khách!</title>
 <link href="/manager/vendor/fontawesome-free/css/all.min.css"
 	rel="stylesheet" type="text/css">
 <link

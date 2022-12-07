@@ -4,7 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<link rel="icon" href="/user/img/logo4.png" type="image/png">
+<title>N7-Shoes Xin Chào Quản Lý!</title>
 </head>
 <body>
 	<!-- Footer -->

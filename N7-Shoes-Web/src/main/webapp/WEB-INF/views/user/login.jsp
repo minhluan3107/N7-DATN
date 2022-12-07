@@ -6,7 +6,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<link rel="icon" href="/user/img/logo4.png" type="image/png">
+<title>N7-Shoes Xin Chào Quý Khách!</title>
 <!-- Custom fonts for this template-->
 <link href="/manager/vendor/fontawesome-free/css/all.min.css"
 	rel="stylesheet" type="text/css">

@@ -7,7 +7,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Page Admin - User Table</title>
+<link rel="icon" href="/user/img/logo4.png" type="image/png">
+<title>N7-Shoes Xin Chào Quản Lý!</title>
 <link
 	href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
 	rel="stylesheet">
@@ -31,7 +32,7 @@
 				<div class="container-fluid">
 
 					<!-- Page Heading -->
-					<h1 class="h3 mb-2 text-gray-800">Danh Sách Đơn Hàng Đã Gửi</h1>
+					<h1 class="h3 mb-2 text-gray-800">Danh Sách Đơn Hàng Đã Giao</h1>
 					<!-- <p class="mb-4">DataTables is a third party plugin that is used to generate the demo table below.
                         For more information about DataTables, please visit the <a target="_blank"
                             href="https://datatables.net">official DataTables documentation</a>.</p> -->
@@ -54,7 +55,7 @@
 										<div class="input-group">
 											<input type="text" name="keyword12"
 												value="${sessionScope.keyword12}" class="form-control"
-												placeholder="Tìm theo tên">
+												placeholder="Tìm theo mã đơn hàng">
 											<div class="input-group-append">
 												<button class="btn btn-outline-secondary bg-info text-white">
 													<i class="fas fa-search"></i>
@@ -68,7 +69,7 @@
 								<thead>
 									<tr>
 										<th>STT</th>
-										<th>Mã hàng</th>
+										<th>Mã đơn hàng</th>
 										<th>Ngày đặt</th>
 										<th>Giá</th>
 										<th>Trạng thái</th>

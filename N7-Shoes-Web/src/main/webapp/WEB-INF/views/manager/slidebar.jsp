@@ -4,7 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<link rel="icon" href="/user/img/logo4.png" type="image/png">
+<title>N7-Shoes Xin Chào Quản Lý!</title>
 </head>
 <body>
 	<!-- Sidebar -->
@@ -13,13 +14,8 @@
 		id="accordionSidebar">
 
 		<!-- Sidebar - Brand -->
-		<a
-			class="sidebar-brand d-flex align-items-center justify-content-center"
-			href="index.html">
-			<div class="sidebar-brand-icon rotate-n-15">
-				<i class="fas fa-laugh-wink"></i>
-			</div>
-			<div class="sidebar-brand-text mx-3">Multi Admin</div>
+		<a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+			<div class="sidebar-brand-text mx-3">Hello Admin</div>
 		</a>
 
 		<!-- Divider -->
@@ -165,8 +161,9 @@
 				aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
 				<div class="bg-white py-2 collapse-inner rounded">
 					<h6 class="collapse-header">Thống kê Sản phẩm</h6>
-					<a class="collapse-item" href="/admin/statis/favorite">Yêu Thích</a>					
-					<a class="collapse-item" href="/admin/statis/order">Đơn Hàng</a>
+					<a class="collapse-item" href="/admin/statis/favorite">Yêu
+						Thích</a> <a class="collapse-item" href="/admin/statis/order">Đơn
+						Hàng</a>
 				</div>
 			</div></li>
 

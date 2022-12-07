@@ -7,13 +7,14 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Trang chủ</title>
+<link rel="icon" href="/user/img/logo4.png" type="image/png">
+<title>N7-Shoes Xin Chào Quý Khách!</title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="Free HTML Templates" name="keywords">
 <meta content="Free HTML Templates" name="description">
 
 <!-- Favicon -->
-<link href="/user/img/favicon.ico" rel="icon">
+<link href="/user/img/favicon.icon" rel="icon">
 
 <!-- Google Web Fonts -->
 <link rel="preconnect" href="https://fonts.gstatic.com">

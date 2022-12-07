@@ -7,7 +7,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Trang chủ</title>
+<link rel="icon" href="/user/img/logo4.png" type="image/png">
+<title>N7-Shoes Xin Chào Quý Khách!</title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="Free HTML Templates" name="keywords">
 <meta content="Free HTML Templates" name="description">
@@ -94,7 +95,7 @@ div[style*="margin: 16px 0;"] {
 											class="mobile-center">
 											<h1
 												style="font-size: 36px; font-weight: 800; margin: 0; color: #ffffff;">
-												MultiShop</h1>
+												N7-Shoes</h1>
 										</td>
 									</tr>
 								</table>
@@ -115,7 +116,7 @@ div[style*="margin: 16px 0;"] {
 														<p
 															style="font-size: 18px; font-weight: 400; margin: 0; color: #ffffff;">
 															<a href="/index" target="_blank"
-																style="color: #ffffff; text-decoration: none;">Shop
+																style="color: #ffffff; text-decoration: none;">Cửa hàng
 																&nbsp;</a>
 														</p>
 													</td>
@@ -149,7 +150,7 @@ div[style*="margin: 16px 0;"] {
 										width="90" height="90" style="display: block; border: 0px;" /><br>
 										<h2
 											style="font-size: 30px; font-weight: 800; line-height: 40px; color: #333333; margin: 0; padding-top: 10px;">
-											Thank You For Your Order!</h2>
+											Cảm ơn bạn đã đặt hàng!</h2>
 									</td>
 								</tr>
 								<tr>
@@ -157,10 +158,9 @@ div[style*="margin: 16px 0;"] {
 										style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; padding-top: 10px;">
 										<p
 											style="font-size: 16px; font-weight: 400; line-height: 24px; color: #777777;">
-											Thank you for ordering at <b style="color: orange;">MultiShop</b>.
-											Please check your order information. Any questions please
-											contact 199931112 for support. Thanks!
-										</p>
+											Cảm ơn bạn đã đặt hàng tại <b style="color: orange;">N7-Shoes</b>.
+											Vui lòng kiểm tra thông tin đơn hàng của bạn. Mọi thắc mắc xin vui lòng liên hệ 199931112 để được hỗ trợ. Cảm ơn!
+										</p>	
 									</td>
 								</tr>
 								<tr>
@@ -169,12 +169,12 @@ div[style*="margin: 16px 0;"] {
 											<tr>
 												<td width="75%" align="left" bgcolor="#eeeeee"
 													style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 800; line-height: 24px; padding: 10px;">
-													Order Confirmation #</td>
+													Thông tin đơn hàng:</td>
 												<td width="25%" align="right" bgcolor="#eeeeee"
 													style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 800; line-height: 24px; padding: 10px;">
 													${name}</td>
 											</tr>
-											<c:forEach var="item" items="${order}">
+											<c:forEach var="item" items="${order}">	
 												<tr>
 													<td width="75%" align="left"
 														style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; padding: 5px 10px;">
@@ -190,7 +190,7 @@ div[style*="margin: 16px 0;"] {
 											<tr>
 												<td width="75%" align="left"
 													style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; padding: 5px 10px;">
-													Shipping</td>
+													Phí vận chuyển:</td>
 												<td width="25%" align="right"
 													style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; padding: 5px 10px;">
 													30.000 VNĐ</td>
@@ -198,7 +198,7 @@ div[style*="margin: 16px 0;"] {
 											<tr>
 												<td width="75%" align="left"
 													style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; padding: 5px 10px;">
-													Sales Tax</td>
+													Thuế bán hàng:</td>
 												<td width="25%" align="right"
 													style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; padding: 5px 10px;">
 													0 VNĐ</td>
@@ -212,7 +212,7 @@ div[style*="margin: 16px 0;"] {
 											<tr>
 												<td width="65%" align="left"
 													style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 800; line-height: 24px; padding: 10px; border-top: 3px solid #eeeeee; border-bottom: 3px solid #eeeeee;">
-													TOTAL</td>
+													TỔNG:</td>
 												<td width="35%" align="right"
 													style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 800; line-height: 24px; padding: 10px; border-top: 3px solid #eeeeee; border-bottom: 3px solid #eeeeee;">
 													<fmt:formatNumber type="number" pattern="###,###,###"
@@ -240,7 +240,7 @@ div[style*="margin: 16px 0;"] {
 												<tr>
 													<td align="left" valign="top"
 														style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px;">
-														<p style="font-weight: 800;">Delivery Address</p>
+														<p style="font-weight: 800;">Địa chỉ giao hàng:</p>
 														<p>
 															${address}
 														</p>
@@ -255,8 +255,8 @@ div[style*="margin: 16px 0;"] {
 												<tr>
 													<td align="right" valign="top"
 														style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px;">
-														<p style="font-weight: 800;">Estimated Delivery Date</p>
-														<p>14 days from order.</p>
+														<p style="font-weight: 800;">Ngày giao hàng dự kiến:</p>
+														<p>7 ngày kể từ khi đặt hàng</p>
 													</td>
 												</tr>
 											</table>
@@ -277,7 +277,7 @@ div[style*="margin: 16px 0;"] {
 										style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; padding-top: 25px;">
 										<h2
 											style="font-size: 24px; font-weight: 800; line-height: 30px; color: #ffffff; margin: 0;">
-											Back to your information.</h2>
+											Quay lại trang thông tin của bạn.</h2>
 									</td>
 								</tr>
 								<tr>
@@ -286,8 +286,7 @@ div[style*="margin: 16px 0;"] {
 											<tr>
 												<td align="center" style="border-radius: 5px;"
 													bgcolor="#66b3b7"><a href="/shop/profile/order" target="_blank"
-													style="font-size: 18px; font-family: Open Sans, Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; border-radius: 5px; background-color: #F44336; padding: 15px 30px; border: 1px solid #F44336; display: block;">Shop
-														Again <i class="fas fa-hand-point-left"></i></a></td>
+													style="font-size: 18px; font-family: Open Sans, Helvetica, Arial, sans-serif; color: #ffffff; text-decoration: none; border-radius: 5px; background-color: #F44336; padding: 15px 30px; border: 1px solid #F44336; display: block;">Quay lại <i class="fas fa-hand-point-left"></i></a></td>
 											</tr>
 										</table>
 									</td>
@@ -309,18 +308,7 @@ div[style*="margin: 16px 0;"] {
 										style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 400; line-height: 24px; padding: 5px 0 10px 0;">
 										<p
 											style="font-size: 14px; font-weight: 800; line-height: 18px; color: #333333;">
-											778/B1 Nguyen Kiem, <br> P.4, Q. Phu Nhuan, <br>Ho Chi Minh city
-										</p>
-									</td>
-								</tr>
-								<tr>
-									<td align="left"
-										style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 400; line-height: 24px;">
-										<p
-											style="font-size: 14px; font-weight: 400; line-height: 20px; color: #777777;">
-											If you didn't create an account using this email address,
-											please ignore this email or <a href="#" target="_blank"
-												style="color: #777777;">unsusbscribe</a>.
+											221 Phạm Văn Chiêu <br> P.14, Q. Gò Vấp, <br>TP. Hồ Chí Minh
 										</p>
 									</td>
 								</tr>

@@ -7,7 +7,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Trang chủ</title>
+<link rel="icon" href="/user/img/logo4.png" type="image/png">
+<title>N7-Shoes Xin Chào Quý Khách!</title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="Free HTML Templates" name="keywords">
 <meta content="Free HTML Templates" name="description">
@@ -44,8 +45,8 @@
 			<div class="col-12">
 				<nav class="breadcrumb bg-light mb-30">
 					<a class="breadcrumb-item text-dark" href="/index">Trang chủ</a> <a
-						class="breadcrumb-item text-dark" href="#">Shop</a> <span
-						class="breadcrumb-item active">Shop Detail</span>
+						class="breadcrumb-item text-dark" href="#">Sản phẩm</a> <span
+						class="breadcrumb-item active">Chi tiết sản phẩm</span>
 				</nav>
 			</div>
 		</div>
@@ -199,7 +200,7 @@
 
 
 					<div class="d-flex pt-2">
-						<strong class="text-dark mr-2">Chia sẽ cho thầy đi:</strong>
+						<strong class="text-dark mr-2">Chia sẽ:</strong>
 						<div class="d-inline-flex">
 							<a class="text-dark px-2" href=""> <i
 								class="fab fa-facebook-f"></i>

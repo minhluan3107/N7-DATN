@@ -7,7 +7,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Trang chủ</title>
+<link rel="icon" href="/user/img/logo4.png" type="image/png">
+<title>N7-Shoes Xin Chào Quý Khách!</title>
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="Free HTML Templates" name="keywords">
 <meta content="Free HTML Templates" name="description">
@@ -48,22 +49,14 @@
                         style="font-size: 60px; text-align: center; padding: 10px; margin-top: 0px;">Cảm Ơn !</h1>
                     <div id="sp-dx6tkp" class="sp-css-target sp-text-wrapper"
                         style="font-size: 20px; padding: 10px; margin-top: 0px; text-align: center;">
-                        <p>Cảm ơn bạn đã mua sản phẩm ở <a href="/index">N7-Shoes</a> website. Bạn
-                            sẽ nhận được hóa đơn gửi đến email bạn trong thời gian ngắn.</p>
+                        <p>Cảm ơn bạn rất nhiều vì đã mua sản phẩm ở <a href="/index">N7-Shoes</a> website. Bạn
+                            sẽ nhận được đơn hàng của mình trong thời gian ngắn.</p>
                     </div>
                     <figure id="sp-cvxloc" class="sp-image-wrapper"
                         style="margin-top: 0px; padding: 10px; text-align: center;"><span><img
                                 src="https://assets.seedprod.com/4812-8IDTHM6XtE3jkJZl.png" alt=""></span></figure>
                     <div id="sp-ojp16j" class="sp-spacer" style="height: 20px;"></div>
-                    <h3 id="sp-o40lpg" class="sp-css-target"
-                        style="font-size: 30px; text-align: center; padding: 10px; margin-top: 0px;">Kiểm Tra Email
-                    </h3>
-                    <div id="tiny-vue_73519880121617369304601"
-                        class="sp-css-target sp-text-wrapper mce-content-body html4-captions"
-                        style="font-size: 16px; padding: 10px; margin-top: 0px; text-align: center; position: relative;">
-                        <p>Nếu bạn không nhận được email vui lòng liên hệ <a href="mailto:info@company.com"
-                                data-mce-href="mailto:info@company.com">holypanda123@gmail.com</a></p>
-                    </div>
+                    
                 </div>
             </div>
         </section>
